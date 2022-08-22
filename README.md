@@ -10,7 +10,7 @@ In today's challenge you will be asked to learn about every things you need to k
 
 - [Data Model](https://prometheus.io/docs/concepts/data_model/)
 
-- [Metric types(<https://prometheus.io/docs/concepts/metric_types/>)
+- [Metric types](<https://prometheus.io/docs/concepts/metric_types/>)
 
 - [Jobs and instances](https://prometheus.io/docs/concepts/jobs_instances/)
 
